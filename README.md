@@ -21,14 +21,11 @@ I am a highly motivated Computer Science student at ESTIN specializing in AI and
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🏥 BioStat-QC** | Laboratory management automating Westgard Rules & Levey-Jennings charts. | `Flask` `SQLite` `Chart.js` |
-| **👤 Facial Spoofing** | Detection system using motion magnification and texture analysis (@CDTA).  | `Python` `AI` |
+| **👤 Facial Spoofing** | Detection system using motion magnification and texture analysis (CDTA).  | `Python` `AI` |
 | **🏫 ABPSCHOOLE** |Comprehensive desktop application for school management.  | `Python` `SQL` |
 | **🎮 UniDash** |3D asset generation and game development support.  | `Blender` |
 
 ---
 
 ###  GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=malak-mahdaoui&show_icons=true&theme=tokyonight" width="400" />
-</p>
+![Malak's GitHub stats](https://github-readme-stats.vercel.app/api?username=malak-mahdaoui&show_icons=true&theme=tokyonight)
