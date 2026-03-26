@@ -24,8 +24,4 @@ Master’s & State Engineer student at ESTIN (AI & Data Science)
 
 ---
 ### 🔥 My Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=malak-mahdaoui&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=malak-mahdaoui&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=malak-mahdaoui&theme=tokyonight"/>
