@@ -1,7 +1,7 @@
-# Hi there, I'm Malak Ines 👋
+# Hi there, I'm Malak Ines 
 ### 🎓 Future State Engineer in AI & Data Science | ESTIN 2026
 
-[cite_start]I am a highly motivated Computer Science student at ESTIN specializing in AI and Data Science. [cite: 4, 10] [cite_start]I focus on developing innovative and scalable AI solutions, particularly in Computer Vision and Deep Learning. [cite: 6, 7]
+I am a highly motivated Computer Science student at ESTIN specializing in AI and Data Science.I focus on developing innovative and scalable AI solutions, particularly in Computer Vision and Deep Learning.
 
 ---
 
@@ -28,6 +28,7 @@
 ---
 
 ### 📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=malak-ines-mahdaoui&show_icons=true&theme=tokyonight" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=malak-mahdaoui&show_icons=true&theme=tokyonight" width="400" />
 </p>
