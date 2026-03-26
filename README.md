@@ -1,11 +1,13 @@
 #  Malak Ines Mahdaoui
 ###  Future State Engineer in AI & Data Science | ESTIN 2026
 Master’s & State Engineer student at ESTIN (AI & Data Science)
-
-. Specializing in Computer Vision & Deep Learning
-. Research Intern at CDTA (Facial spoofing detection)
-. Certified: Associate Data Analyst & Machine Learning
 ---
+. Specializing in Computer Vision & Deep Learning
+
+. Research Intern at CDTA (Facial spoofing detection)
+
+. Certified: Associate Data Analyst & Machine Learning
+
 
 ### 💻 Languages and Tools
 
@@ -25,6 +27,6 @@ Master’s & State Engineer student at ESTIN (AI & Data Science)
 ### 🔥 My Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=malak-mahdaoui&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malak-mahdaoui&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malak-mahdaoui&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malak-mahdaoui&layout=compact&theme=tokyonight" height="170"/>
 </p>
