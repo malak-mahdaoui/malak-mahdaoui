@@ -1,8 +1,10 @@
 #  Malak Ines Mahdaoui
 ###  Future State Engineer in AI & Data Science | ESTIN 2026
+Master’s & State Engineer student at ESTIN (AI & Data Science)
 
-I am a highly motivated Computer Science student at ESTIN specializing in AI and Data Science.I focus on developing innovative and scalable AI solutions, particularly in Computer Vision and Deep Learning.
-
+. Specializing in Computer Vision & Deep Learning
+. Research Intern at CDTA (Facial spoofing detection)
+. Certified: Associate Data Analyst & Machine Learning
 ---
 
 ### 💻 Languages and Tools
