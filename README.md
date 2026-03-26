@@ -1,4 +1,4 @@
-# Hi there, I'm Malak Ines 
+#  Malak Ines Mahdaoui
 ###  Future State Engineer in AI & Data Science | ESTIN 2026
 
 I am a highly motivated Computer Science student at ESTIN specializing in AI and Data Science.I focus on developing innovative and scalable AI solutions, particularly in Computer Vision and Deep Learning.
@@ -14,18 +14,7 @@ I am a highly motivated Computer Science student at ESTIN specializing in AI and
 | **Technical Stack** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) <br> Python, R, SQL, NoSQL, Cloud  |
 | **Cybersecurity** | ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) <br> Cryptography, Network & Computer Security  |
 
----
 
-###  Projects & Experiences
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🏥 BioStat-QC** | Laboratory management automating Westgard Rules & Levey-Jennings charts. | `Flask` `SQLite` `Chart.js` |
-| **👤 Facial Spoofing** | Detection system using motion magnification and texture analysis (CDTA).  | `Python` `AI` |
-| **🏫 ABPSCHOOLE** |Comprehensive desktop application for school management.  | `Python` `SQL` |
-| **🎮 UniDash** |3D asset generation and game development support.  | `Blender` |
-
----
 
 ###  GitHub Stats
 <p align="left">
