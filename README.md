@@ -9,10 +9,10 @@
 
 | Category | Icons & Skills |
 | :--- | :--- |
-| **Artificial Intelligence** | [cite_start]![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) <br> Deep Learning, NLP, RL, Computer Vision  |
-| **Data Science** | [cite_start]![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Talend](https://img.shields.io/badge/Talend-FF6600?style=for-the-badge&logo=talend&logoColor=white) <br> Analysis, Visualization, BI, ETL  |
-| **Technical Stack** | [cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) <br> Python, R, SQL, NoSQL, Cloud  |
-| **Cybersecurity** | [cite_start]![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) <br> Cryptography, Network & Computer Security  |
+| **Artificial Intelligence** | [PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) <br> Deep Learning, NLP, RL, Computer Vision  |
+| **Data Science** |[Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Talend](https://img.shields.io/badge/Talend-FF6600?style=for-the-badge&logo=talend&logoColor=white) <br> Analysis, Visualization, BI, ETL  |
+| **Technical Stack** | [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) <br> Python, R, SQL, NoSQL, Cloud  |
+| **Cybersecurity** | [Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) <br> Cryptography, Network & Computer Security  |
 
 ---
 
@@ -21,9 +21,9 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🏥 BioStat-QC** | Laboratory management automating Westgard Rules & Levey-Jennings charts. | `Flask` `SQLite` `Chart.js` |
-| **👤 Facial Spoofing** | [cite_start]Detection system using motion magnification and texture analysis (@CDTA).  | `Python` `AI` |
-| **🏫 ABPSCHOOLE** | [cite_start]Comprehensive desktop application for school management.  | `Python` `SQL` |
-| **🎮 UniDash** | [cite_start]3D asset generation and game development support.  | `Blender` |
+| **👤 Facial Spoofing** | Detection system using motion magnification and texture analysis (@CDTA).  | `Python` `AI` |
+| **🏫 ABPSCHOOLE** |Comprehensive desktop application for school management.  | `Python` `SQL` |
+| **🎮 UniDash** |3D asset generation and game development support.  | `Blender` |
 
 ---
 
